@@ -1,0 +1,17 @@
+.smoke {
+background-color: blue;
+padding: 50px 50px;
+border: none;
+}
+
+.Fire {
+    background-color: red;
+    padding: 50px 50px;
+    border: none;
+}
+
+.forest {
+    background-color: green;
+    padding: 50px 50px;
+    border: none;
+}
